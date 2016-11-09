@@ -48,7 +48,7 @@ sub check_arguments() {
         check_inPutFile_existance($inputFileTxt);
 
         #3_-_CHECK IF FILE FORMAT IS CORRECT ___
-        #check_inPutFile_extension();
+        check_inPutFile_extension();
 
         exit;
     }
