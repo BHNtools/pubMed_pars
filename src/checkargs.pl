@@ -15,19 +15,28 @@ use warnings;
 #6_OutPut examples
 
 
-
 #Import intern module
 use Cwd;
 my $dir = getcwd;
 use Cwd 'abs_path';
 
+#CHECK FILE FORMAT
 my $file = 'checkfilein.pl';
 my $abs_path = abs_path($file);
 my $under_path =  'src/'. $file ;
 
 my $new = $abs_path =~ s/$file/$under_path/r;
-#print($new);
 require $new;
+
+
+#OUT PUT FILES STR
+my $fileout = 'parsout.pl';
+my $abs_path = abs_path($fileout);
+my $under_path =  'src/'. $fileout ;
+
+my $newOUT = $abs_path =~ s/$fileout/$under_path/r;
+require $newOUT;
+
 
 
 
@@ -50,6 +59,16 @@ sub check_arguments() {
         #3_-_CHECK IF FILE FORMAT IS CORRECT ___
         check_inPutFile_extension();
 
+        #4/5_-PARS IN PUT FILE -- OUT PUT
+        #___ CALL ---
+        #basic file : just word count
+        output_Summary();
+        #file with tag value
+        output_Details();
+        #word frequency in abstract
+        output_wordcloud();
+        print ("STEP 5 : REDIRECT OUT PUT IN FILES ...._OK \n");
+        print("DONE.\n");
         exit;
     }
 
