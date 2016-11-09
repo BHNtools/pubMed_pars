@@ -1,0 +1,211 @@
+
+PMID- 27806376
+OWN - NLM
+STAT- Publisher
+DA  - 20161102
+LR  - 20161105
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Linking)
+DP  - 2016 Nov 02
+TI  - Single-cell RNA-seq supports a developmental hierarchy in human
+      oligodendroglioma.
+LID - 10.1038/nature20123 [doi]
+AB  - Although human tumours are shaped by the genetic evolution of cancer cells,
+      evidence also suggests that they display hierarchies related to developmental
+      pathways and epigenetic programs in which cancer stem cells (CSCs) can drive
+      tumour growth and give rise to differentiated progeny. Yet, unbiased evidence for
+      CSCs in solid human malignancies remains elusive. Here we profile 4,347 single
+      cells from six IDH1 or IDH2 mutant human oligodendrogliomas by RNA sequencing
+      (RNA-seq) and reconstruct their developmental programs from genome-wide
+      expression signatures. We infer that most cancer cells are differentiated along
+      two specialized glial programs, whereas a rare subpopulation of cells is
+      undifferentiated and associated with a neural stem cell expression program. Cells
+      with expression signatures for proliferation are highly enriched in this rare
+      subpopulation, consistent with a model in which CSCs are primarily responsible
+      for fuelling the growth of oligodendroglioma in humans. Analysis of copy number
+      variation (CNV) shows that distinct CNV sub-clones within tumours display similar
+      cellular hierarchies, suggesting that the architecture of oligodendroglioma is
+      primarily dictated by developmental programs. Subclonal point mutation analysis
+      supports a similar model, although a full phylogenetic tree would be required to 
+      definitively determine the effect of genetic evolution on the inferred
+      hierarchies. Our single-cell analyses provide insight into the cellular
+      architecture of oligodendrogliomas at single-cell resolution and support the
+      cancer stem cell model, with substantial implications for disease management.
+FAU - Tirosh, Itay
+AU  - Tirosh I
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Venteicher, Andrew S
+AU  - Venteicher AS
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+AD  - Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical
+      School, Boston, Massachusetts 02114, USA.
+FAU - Hebert, Christine
+AU  - Hebert C
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Escalante, Leah E
+AU  - Escalante LE
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Patel, Anoop P
+AU  - Patel AP
+AD  - Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical
+      School, Boston, Massachusetts 02114, USA.
+FAU - Yizhak, Keren
+AU  - Yizhak K
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Fisher, Jonathan M
+AU  - Fisher JM
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Rodman, Christopher
+AU  - Rodman C
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Mount, Christopher
+AU  - Mount C
+AD  - Departments of Neurology, Neurosurgery, Pediatrics and Pathology, Stanford
+      University School of Medicine, Stanford, California 94305, USA.
+FAU - Filbin, Mariella G
+AU  - Filbin MG
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute and Children's
+      Hospital Cancer Center, Boston, Massachusetts 02215, USA.
+FAU - Neftel, Cyril
+AU  - Neftel C
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Desai, Niyati
+AU  - Desai N
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Nyman, Jackson
+AU  - Nyman J
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Izar, Benjamin
+AU  - Izar B
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Luo, Christina C
+AU  - Luo CC
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Francis, Joshua M
+AU  - Francis JM
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+      Massachusetts 02215, USA.
+FAU - Patel, Aanand A
+AU  - Patel AA
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Onozato, Maristela L
+AU  - Onozato ML
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Riggi, Nicolo
+AU  - Riggi N
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Livak, Kenneth J
+AU  - Livak KJ
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Gennert, Dave
+AU  - Gennert D
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Satija, Rahul
+AU  - Satija R
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Nahed, Brian V
+AU  - Nahed BV
+AD  - Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical
+      School, Boston, Massachusetts 02114, USA.
+FAU - Curry, William T
+AU  - Curry WT
+AD  - Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical
+      School, Boston, Massachusetts 02114, USA.
+FAU - Martuza, Robert L
+AU  - Martuza RL
+AD  - Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical
+      School, Boston, Massachusetts 02114, USA.
+FAU - Mylvaganam, Ravindra
+AU  - Mylvaganam R
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Iafrate, A John
+AU  - Iafrate AJ
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Frosch, Matthew P
+AU  - Frosch MP
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Golub, Todd R
+AU  - Golub TR
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pediatric Oncology, Dana-Farber Cancer Institute and Children's
+      Hospital Cancer Center, Boston, Massachusetts 02215, USA.
+AD  - Howard Hughes Medical Institute, Koch Institute, Department of Biology, MIT,
+      Cambridge, Massachusetts 02139, USA.
+FAU - Rivera, Miguel N
+AU  - Rivera MN
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Getz, Gad
+AU  - Getz G
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Rozenblatt-Rosen, Orit
+AU  - Rozenblatt-Rosen O
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+FAU - Cahill, Daniel P
+AU  - Cahill DP
+AD  - Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical
+      School, Boston, Massachusetts 02114, USA.
+FAU - Monje, Michelle
+AU  - Monje M
+AD  - Departments of Neurology, Neurosurgery, Pediatrics and Pathology, Stanford
+      University School of Medicine, Stanford, California 94305, USA.
+FAU - Bernstein, Bradley E
+AU  - Bernstein BE
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Louis, David N
+AU  - Louis DN
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+FAU - Regev, Aviv
+AU  - Regev A
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Howard Hughes Medical Institute, Koch Institute, Department of Biology, MIT,
+      Cambridge, Massachusetts 02139, USA.
+FAU - Suva, Mario L
+AU  - Suva ML
+AD  - Broad Institute of Harvard and MIT, Cambridge, Massachusetts 02142, USA.
+AD  - Department of Pathology and Center for Cancer Research, Massachusetts General
+      Hospital and Harvard Medical School, Boston, Massachusetts 02114, USA.
+LA  - ENG
+PT  - Journal Article
+DEP - 20161102
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+EDAT- 2016/11/05 06:00
+MHDA- 2016/11/05 06:00
+CRDT- 2016/11/05 06:00
+PHST- 2016/05/11 [received]
+PHST- 2016/09/26 [accepted]
+AID - nature20123 [pii]
+AID - 10.1038/nature20123 [doi]
+PST - aheadofprint
+SO  - Nature. 2016 Nov 2. doi: 10.1038/nature20123.
