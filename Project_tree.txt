@@ -1,0 +1,24 @@
+.
+├── License.txt
+├── Project_tree.txt
+├── Readme.md
+├── data
+│   ├── inPutData
+│   ├── outPutData
+│   │   ├── Abstract_word_frequency.txt
+│   │   ├── Details_Tag_Word_Count.txt
+│   │   └── Tag_Word_Count.txt
+│   └── testData
+│       ├── cancer.csv
+│       └── cancer.txt
+├── pubMed_pars.pl -> src/./pubMed_pars.pl
+├── src
+│   ├── checkargs.pl
+│   ├── checkfilein.pl
+│   ├── parsfilein.pl
+│   ├── parsout.pl
+│   └── pubMed_pars.pl
+└── tests
+    └── test_Perl_HW.pl.t
+
+6 directories, 15 files
