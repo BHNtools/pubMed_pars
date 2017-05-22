@@ -1,22 +1,26 @@
-#PubMed-Pars 1.0.0 : Script for parsing PubMed citation file with Perl.
+# PubMed-Pars 1.0.0 : 
+
+Script for parsing PubMed citation file with Perl.
 
 
-##Authors & Maintainer
-###====================
-BEN HASSINE Najla, NajlaBH.freelance@gmail.com.
+## Authors & Maintainer
+
+====================
+
+BEN HASSINE Najla
 
 
-##Usage
-###=====
-url : 
+## Building
+
+==============
+
+https://github.com/BHNtools/pubMed_pars.git
 
 
-##Building
-###========
-git clone 
+## Running
 
-##Running
-###========
+============
+
 <pre> #In terminal
 $ unzip pubMed_pars.zip
 $ cd pubMed_pars
@@ -24,11 +28,11 @@ $ ./pubMed_par.pl
 </pre>
 
 
-##OutPuts
+## OutPuts
 - Three output files will be generated under the following path:
 <pre>data/outPutData/</pre>
 
-*Tag_Word_Count.txt
+* Tag_Word_Count.txt
 
 >> Extract : 
 	
@@ -39,7 +43,7 @@ $ ./pubMed_par.pl
 	--AB_WORD_COUNT:Word count in abstract.
 	
 
-*Details_Tag_Word_Count.txt
+* Details_Tag_Word_Count.txt
 >> Extract :
 	-- PUBMED_REF:Pubmed reference.
 	
@@ -52,12 +56,14 @@ $ ./pubMed_par.pl
 	-- AB_WORD_COUNT:Word count in abstract.
 	
 
-*Abstract_word_frequency.txt
+* Abstract_word_frequency.txt
 >> Extract :
 	
 	-- Count word frequency in the abstract.
 
 
-##License
-###========
+## License
+
+=============
+
 MIT License.
